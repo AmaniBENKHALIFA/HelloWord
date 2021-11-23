@@ -1,5 +1,4 @@
-<h1> Hi Amani !</h1>
-<p> stay positive please !! </p>
+<h1>Hello everybody !</h1>
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
